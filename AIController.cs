@@ -14,6 +14,9 @@ namespace CosmoSimClone
             Patrol,
             RoutePatrol
         }
+        /// <summary>
+        /// Тип поведения бота
+        /// </summary>
         [SerializeField] private AIBehavior m_AIBehavior;
 
         [SerializeField] private AIPointPatrol m_PatrolPoint;
