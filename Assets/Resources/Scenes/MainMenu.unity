@@ -2293,7 +2293,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 479e85d118a3c344f9597c5e50b542c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_SpaceShipPrefab: {fileID: 0}
+  m_SpaceShipPrefab: {fileID: 359149221739719353, guid: 3d4b898ca71cecd40a4fc90796962f3a, type: 3}
   m_SpaceShipName: {fileID: 1040479048}
   m_HealthPoints: {fileID: 1946841364}
   m_Armor: {fileID: 1949169832}
